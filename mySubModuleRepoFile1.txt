@@ -1,3 +1,4 @@
 Blublublu
 Modif. ajoutée depuis le dépôt local myParentRepo1.
 Modif2. ajoutée depuis le dépôt local myParentRepo1.
+Modif. depuis le sous-module.
