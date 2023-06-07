@@ -9,4 +9,5 @@ Modif.5 depuis le sous-module.
 Modif. qui ne devrait pas passer grâce au hook!
 Modif. qui ne devrait pas passer grâce au hook!
 Modif. qui ne devrait pas passer grâce au hook!
+xModif. qui ne devrait pas passer grâce au hook!
 
