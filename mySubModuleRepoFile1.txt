@@ -4,3 +4,4 @@ Modif2. ajoutée depuis le dépôt local myParentRepo1.
 Modif. depuis le sous-module.
 Modif2. depuis le sous-module.
 Modif3b. depuis le sous-module.
+Modif4. depuis le sous-module.
