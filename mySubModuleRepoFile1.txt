@@ -2,8 +2,4 @@ Blublublu
 Modif. ajoutée depuis le dépôt local myParentRepo1.
 Modif2. ajoutée depuis le dépôt local myParentRepo1.
 Modif. depuis le sous-module.
-<<<<<<< HEAD
 Modif2. depuis le sous-module.
-=======
-Modif. rendable malgré le .gitignore
->>>>>>> 8d1fb1a48816ed0f261aa10caac433470d8f8e62
